@@ -6,7 +6,7 @@ PHP editor extension for laravel-admin based on code-mirror
 ## Installation 
 
 ```bash
-composer require laravel-admin-ext/php-editor
+composer require snowsoft/php-editor
 
 php artisan vendor:publish --tag=laravel-admin-code-mirror
 ```
