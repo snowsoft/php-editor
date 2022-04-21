@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/php-editor",
+    "name": "snowsoft/php-editor",
     "description": "PHP editor extension for laravel-admin based on code-mirror",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "code mirror", "php", "editor"],
-    "homepage": "https://github.com/laravel-admin-ext/php-editor",
+    "homepage": "https://github.com/snowsoft/php-editor",
     "license": "MIT",
     "authors": [
         {
